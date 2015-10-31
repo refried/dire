@@ -1,5 +1,5 @@
 # dire
-![build status](https://travis-ci.org/refried/dire.svg)
+[![build status](https://travis-ci.org/refried/dire.svg)](https://travis-ci.org/refried/dire)
 
 A library for discrete functional reactive programming with
 a focus on referential transparency.
